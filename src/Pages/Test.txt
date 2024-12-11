@@ -1,0 +1,32 @@
+Project/
+├── Pages/
+│   ├── Home/
+│   │   ├── Components/
+│   │   │   ├── Sidebar/
+│   │   │   ├── HeroImage/
+│   │   │   ├── TextAnimation/
+│   ├── About/
+│   │   ├── Components/
+│   │   │   ├── Description/
+│   │   │   ├── Image & Information
+│   │   │   ├── Sidebar/
+│   │   │   ├── SkillsBar/
+│   ├── Resume/
+│   │   ├── Components/
+│   │   │   ├── Summary/
+│   │   │   ├── Education/
+│   │   │   ├── WorkExperience/
+│   │   │   ├── Sidebar/
+│   ├── Service/
+│   │   ├── Components/
+│   │   │   ├── CardDetails/
+│   │   │   ├── Testimonial/
+│   │   │   ├── Sidebar/
+│   ├── Portfolio/
+│   │   ├── Components/
+│   │   │   ├── ProjectCard/
+│   │   │   ├── Sidebar/
+│   ├── ContactForm/
+│   │   ├── Components/
+│   │   │   ├── ContactForm/
+│   │   │   ├── Sidebar/
